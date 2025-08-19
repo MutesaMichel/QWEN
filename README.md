@@ -1,4 +1,5 @@
 <p align="center">
+    <p align="center"><img width="612" height="408" alt="Bl" src="https://github.com/user-attachments/assets/20489902-e37a-4397-b342-410a807ae0fb" />
     <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/qwen_image_logo.png" width="400"/>
 <p>
 <p align="center">&nbsp&nbsp💜 <a href="https://chat.qwen.ai/">Qwen Chat</a>&nbsp&nbsp |
